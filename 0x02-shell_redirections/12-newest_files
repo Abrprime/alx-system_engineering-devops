@@ -1,2 +1,2 @@
 #!/bin/bah
-ls -Art | tail -10 1
+ls -1t | head -10

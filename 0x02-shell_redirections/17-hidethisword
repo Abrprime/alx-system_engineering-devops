@@ -1,1 +1,2 @@
 #!/bin/bah
+grep -v "bin" /etc/passwd
